@@ -7,4 +7,4 @@
 ## ## git init git add . git commit -m '230710 0858'
 ## git push -u origin main
 ## 피그마 팀원들과 함께 사용
-## 
+## 깃허브 파보기
