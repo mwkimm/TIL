@@ -8,6 +8,10 @@
 ## ## git init git add . git commit -m '230710 0858'
 ## git push -u origin main
 ## 피그마 팀원들과 함께 사용
+<<<<<<< HEAD
 ## 수업 마치고 깃 사용 더해보기
 
 
+=======
+## 깃허브 파보기
+>>>>>>> 98de0ca48c1cbc8e1d550e5242398778f4f27a75
