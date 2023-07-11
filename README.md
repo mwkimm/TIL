@@ -14,3 +14,4 @@
 ## 6. 해당 브런치 이동 git checkout minwoo로 이동 
 ## 7. 새로 판 minwoo1
 ## 8. git minwoo2 새로만듬
+## 9. git minwoo 새로만듬
