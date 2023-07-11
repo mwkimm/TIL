@@ -23,3 +23,4 @@
 ## 15. git 수정2
 ## 16. git pull requset 저장
 ## 17. git dev 만들기
+## 18. github merge 하는법 익히기
