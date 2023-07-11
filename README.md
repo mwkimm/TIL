@@ -5,3 +5,10 @@
 ## 한번더 올리고 싶습니다.
 ## 오늘 공부시작했습니다 23.07.11
 ## 다시 시작공부합니다.
+## git hub 
+## 1. 폴더 만들기 
+## 2. 그 폴더안이 아니라 그 폴더 찍어서 열고
+## 3. git clone 해서 해당 파일 new window로 열고 이전 vscode는 닫고
+## 4. 브런치를 미리 github사이트에서 만들었으면 git fetch 안해도 됨
+## 5. 안만들었으면 git branch minwoo 해서 만들고 git fetch 이후  
+## 6. 해당 브런치 이동 git checkout minwoo로 이동 
