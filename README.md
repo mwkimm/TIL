@@ -22,3 +22,4 @@
 ## 14. git 수정1 
 ## 15. git 수정2
 ## 16. git pull requset 저장
+## 17. dev에서 ITL 저장하기
