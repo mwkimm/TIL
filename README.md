@@ -12,3 +12,4 @@
 ## 4. 브런치를 미리 github사이트에서 만들었으면 git fetch 안해도 됨
 ## 5. 안만들었으면 git branch minwoo 해서 만들고 git fetch 이후  
 ## 6. 해당 브런치 이동 git checkout minwoo로 이동 
+## 7. 새로 판 minwoo1
