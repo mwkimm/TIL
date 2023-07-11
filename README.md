@@ -24,3 +24,5 @@
 ## 16. git pull requset 저장
 ## 17. git dev 만들기
 ## 18. github merge 하는법 익히기
+## 19. 2:55분 git 익히는방법 조금알겠음
+## 20. 까먹지 말자
