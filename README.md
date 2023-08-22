@@ -106,4 +106,5 @@
 ## 리드미에서 webfx 이미지 사용하면 들어가짐
 ## https://www.webfx.com/tools/emoji-cheat-sheet/
 ## 팀 프로젝트 발표 
+## 경화님께서 계속 갈구심 느슨해졌다고 하심 숫자로 사라졌다고 하심
 
