@@ -113,3 +113,4 @@
 ## 오늘은 bindview gridview listview 재학습중입니다.
 
 ## til 하루 빠져먹어서 속상하네요
+## 손가락에 모기물리신 전팀장님 
